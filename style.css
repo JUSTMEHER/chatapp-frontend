@@ -365,8 +365,6 @@ h1{
 @media(max-width:750px){
     .container{
         flex-direction: column;
-        overflow-x:visible;
-        scale: 85%;
     }
     h1{
         position: absolute;
@@ -374,16 +372,13 @@ h1{
         left:-130px
     }
     .text1{
-        position: absolute;
-        top:970px;
-        left:-210px;
-        font-size:20px;
-        text-align:center;
+        margin-top: 970px;
+        margin-left:-250px;
+        text-align:start;
+        font-size: 20px;
     }
     .phone{
-        scale: 90%;
-        position: sticky;
-        left:100px
+        margin-left: 100px;
     }
 
 }
