@@ -378,10 +378,10 @@ h1{
         overflow-x: hidden;
     }
     .container{
-        flex-direction: column;
+        flex-direction:row;
         scale:100%;
         overflow-x: hidden;
-        margin-left: -100px;
+        margin-left: -180px;
         margin-bottom: 20px
     }
     h1{
