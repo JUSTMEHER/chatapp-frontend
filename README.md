@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/JUSTMEHER/result-frontend)
-- Live Site URL: [Live Site URL ](https://justmeher.github.io/result-frontend)
+- Solution URL: [Solution URL](https://github.com/JUSTMEHER/chatapp-frontend)
+- Live Site URL: [Live Site URL ](https://justmeher.github.io/chatapp-frontend)
 
 
 ### Built with
